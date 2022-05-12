@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jareeri
-- 👀 I’m interested in java php css 
-- 🌱 I’m currently learning android dev
-- 💞️ I’m looking to collaborate with no one 
 - 📫 How to reach me abdojareeri2000@gmail.com
 
 <!---
